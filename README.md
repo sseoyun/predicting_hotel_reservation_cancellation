@@ -1,5 +1,5 @@
 # 🏨 호텔 예약 취소 여부 예측 프로젝트
-### [프로젝트 결과 보고서](https://github.com/sseoyun/predicting_hotel_reservation_cancellation/blob/main/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B2%B0%EA%B3%BC%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
+### [🔗프로젝트 결과 보고서](https://github.com/sseoyun/predicting_hotel_reservation_cancellation/blob/main/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B2%B0%EA%B3%BC%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
 
 <br>
 
